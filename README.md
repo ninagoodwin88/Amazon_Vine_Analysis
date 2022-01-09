@@ -1,5 +1,7 @@
 # Furniture Products - Amazon Vine Analysis
 
+Python, Visual Studio Code, Anaconda, Jupyter Notebook, Pandas
+
 ## Overview of Project
 This project is to analyze Amazon reviews written by members of the paid Amazon Vine program. The analysis will determine if there is any bias toward favorable reviews from Vine members in the furniture department.
 
@@ -8,30 +10,30 @@ This project is to analyze Amazon reviews written by members of the paid Amazon 
 
 **Helpful Reviews (All) with 5 Star:**  
 For all reviews and "helpful" reviews, **around half of the ratings are 5 Star**, which indicates that the Vine programs tend to give 5 Stars over any other rating.
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r5.png)
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r5.png)
 
 **Percentage of Vine Reviews are 5-star:**  
 For all the Vine Reviews, we found almost the same, a little more lower ratings than 5 Star.
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r6.png)  
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r6.png)  
 
 
 **Percentage of Non-Vine Reviews are 5-star:** 
 In General, the non-Vine reviews is higher of 5 Stars on non-Vine reviews than 5 Star Vine.  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r7.png)
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r7.png)
 
 **Vine Review vs. Non-Vine Review**:   
 For the entire Furniture product review file, the majority has a small Amazon Vine review:   
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r1.png)
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r1.png)
 
 Now, applying the same analysis over smaller dataset, with "helpful" reviews, we faound an average percentage from the Vine program:  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r2.png)
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r2.png)
 
 **5 Star Reviews Vine vs Non-Vine:** 
 For the entire review dataset, we found a small 5 Star reviews from Vine reviews, **around 0.3%**  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r3.png)
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r3.png)
 
 By Filtering the "helpful" reviews only, we saw and found a light difference; **a lower 1%** of the 5 Star review from Vine.  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r4.png)
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r4.png)
 
 
 ### SUMMARY
@@ -53,19 +55,19 @@ Below some recommendations to follow:
 
 The analysis gave us that **1/4 are Vine Reviews**
   
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r8.png)  
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r8.png)  
 
 Specific Product provide an average of **57% 5 Star reviews**  
 
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r9.png)  
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r9.png)  
 
 For the majority of Vine Reviews, the analysis provide a **49% of 5 Star reviews**   
 
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r10.png)   
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r10.png)   
 
 And for the majority of the non-Vine Reviews, the analysis provide a **60% of 5 Star reviews**
 
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r11.png) 
+![d1](https://github.com/ninagoodwin88/Amazon_Vine_Analysis/blob/main/Resources/Images/r11.png) 
 
 
 
